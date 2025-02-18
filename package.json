@@ -3,6 +3,11 @@
   "license": "UNLICENSED",
   "main": "Node2.js",
   "scripts": {
-    "build-project": "node Node2.js"
+    "start": "node Node2.js"
+    "dev": "nodemon Node2.js",
+    "test": "jest"
+  },
+    "dependencies": {
+    "express": "^4.18.2"
   }
 }
