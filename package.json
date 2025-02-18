@@ -3,7 +3,7 @@
   "license": "UNLICENSED",
   "main": "Node2.js",
   "scripts": {
-    "start": "node Node2.js"
+    "start": "node Node2.js",
     "dev": "nodemon Node2.js",
     "test": "jest"
   },
