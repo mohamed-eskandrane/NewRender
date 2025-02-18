@@ -1,10 +1,10 @@
 {
   "name": "my-package",
   "license": "UNLICENSED"
-    "config": {
-    "port": "8080"
-  }
   "scripts": {
     "build-project": "node Node2.js"
+  }
+    "config": {
+    "port": "8080"
   }
 }
