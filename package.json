@@ -1,6 +1,7 @@
 {
   "name": "my-package",
   "license": "UNLICENSED",
+  "main": "Node2.js",
   "scripts": {
     "build-project": "node Node2.js"
   }
