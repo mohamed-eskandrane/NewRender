@@ -5,7 +5,6 @@
     "port": "8080"
   }
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "Node2.js"
+    "build-project": "node Node2.js"
   }
 }
