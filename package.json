@@ -4,7 +4,4 @@
   "scripts": {
     "build-project": "node Node2.js"
   }
-    "config": {
-    "port": "8080"
-  }
 }
